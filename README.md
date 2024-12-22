@@ -11,6 +11,8 @@ This project focuses on analyzing bank loan data to derive insights into loan di
 # Preview
 ![Cover](https://github.com/user-attachments/assets/665f0ed2-e962-4643-88ec-57d1dd453add)
 
+# To Use:
+* <a href ="https://github.com/BeingSaka/FinaceProject-Bank-Loan-Analysis-Using-MySQL-and-Power-Bi/blob/main/financial_loan.csv" > FinancialLoan.csv </a>
 
 # Tools Used
 * MySQL: For database management and SQL queries to process and manipulate the data.
