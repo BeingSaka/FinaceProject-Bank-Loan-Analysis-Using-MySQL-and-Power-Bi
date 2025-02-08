@@ -1,7 +1,7 @@
 
 # Finance Project - Bank Loan Analysis | Using MySQL and Power BI
 # Project Overview
-This project focuses on analyzing bank loan data to derive insights into loan distribution, customer trends, and risk assessment. Using MySQL for data manipulation and Power BI for data visualization, the analysis provides actionable insights to help stakeholders make informed decisions.
+This project focuses on analyzing 🏦 bank loan data to uncover insights into 📈 loan distribution, 👥 customer trends, and ⚠️ risk assessment. Utilizing 🗄 MySQL for data manipulation and 📊 Power BI for visualization, it delivers actionable insights to help stakeholders make informed decisions.
 
 # Key Objectives
 * Analyze loan distribution across various customer demographics.
